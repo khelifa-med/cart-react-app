@@ -1,0 +1,2 @@
+
+export const PRODUCT_COUNTER = 'PRODUCT_COUNTER'
